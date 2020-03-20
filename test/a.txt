@@ -10,3 +10,4 @@ m two
 m one
 test push
 test merage one
+test merage remote
